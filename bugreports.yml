@@ -1,1 +1,83 @@
-  
+---
+- summary: |
+    Не работает переход на английскую мобильную версию сайта
+  environment: |
+    iPhone 8 Plus  iOS 16.1.1 Safari browser
+  steps-to-reproduce: |
+    1. Зайти на surf.ru
+    2. Нажать на 3 горизонтальные полоски в правом верхнем углу сайта
+    3. Нажать на кнопку 'Eng'
+  expected-result: |
+    Осуществился переход на английскую версию сайта
+  actual-result: |
+    Версия сайта осталась прежней
+
+- summary: |
+    Не работает переход на страницу компании в LinkedIn
+  environment: |
+    Google Chrome   110.0.5481.177 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти на surf.dev
+    2. Нажать на кнопку 'Estimate project' в правом верхнем углу сайта
+    3. Нажать на кнопку 'in' в футере
+  expected-result: |
+    Осуществился переход на страницу компании в LinkedIn
+  actual-result: |
+    Осуществился переход на страницу компании в Twitter
+    
+- summary: |
+    Не работает переход на страницу компании в Behance
+  environment: |
+    Google Chrome   110.0.5481.177 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти на surf.dev
+    2. Нажать на кнопку 'Estimate project' в правом верхнем углу сайта
+    3. Нажать на кнопку 'Be' в футере
+  expected-result: |
+    Осуществился переход на страницу компании в Behance
+  actual-result: |
+    Осуществился переход на страницу компании в LinkedIn
+    
+- summary: |
+    Не работает переход на страницу компании в GitHub
+  environment: |
+    Google Chrome   110.0.5481.177 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти на surf.dev
+    2. Нажать на кнопку 'Estimate project' в правом верхнем углу сайта
+    3. Нажать на кнопку 'GitHub' с изображением кота с щупальцами в футере
+  expected-result: |
+    Осуществился переход на страницу компании в GitHub
+  actual-result: |
+    Осуществился переход на страницу компании в Facebook
+    
+- summary: |
+    Не работает переход на страницу компании в Dribbble
+  environment: |
+    Google Chrome   110.0.5481.177 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти на surf.dev
+    2. Нажать на кнопку 'Estimate project' в правом верхнем углу сайта
+    3. Нажать на кнопку 'Dribbble' с изображением баскетбольного мяча в футере
+  expected-result: |
+    Осуществился переход на страницу компании в Dribbble
+  actual-result: |
+    Осуществился переход на страницу компании в Instagram
+    
+- summary: |
+    Не работает переход на страницу компании в Dribbble
+  environment: |
+    Google Chrome   110.0.5481.177 (Официальная сборка) (64 бит)
+    ОС Windows 10
+  steps-to-reproduce: |
+    1. Зайти на surf.dev
+    2. Нажать на кнопку 'Estimate project' в правом верхнем углу сайта
+    3. Нажать на кнопку 'Dribbble' с изображением баскетбольного мяча в футере
+  expected-result: |
+    Осуществился переход на страницу компании в Dribbble
+  actual-result: |
+    Осуществился переход на страницу компании в Instagram  
