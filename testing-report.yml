@@ -1,0 +1,28 @@
+---
+- summary: |
+    Пользователь может переключиться на английский язык в мобильной версии сайта
+  status: fail
+
+- summary: |
+    Проверка перехода на страницу компании в LinkedIn
+  status: fail
+  
+- summary: |
+    Проверка перехода на страницу компании в Behance
+  status: fail
+
+- summary: |
+    Проверка перехода на страницу компании в GitHub
+  status: fail
+  
+- summary: |
+    Проверка перехода на страницу компании в Dribbble
+  status: fail
+  
+- summary: |
+    Проверка перехода на страницу компании в Medium
+  status: fail
+
+- summary: |
+    Проверка перехода на страницу компании в GoodFirms
+  status: fail
