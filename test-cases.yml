@@ -147,3 +147,20 @@
     - Скроллить вниз
   expected-result: |
     Вёрстка сайта выровнена и не поехала
+
+- summary: |
+    Проверка вёрстки раздела Services -> Support and management -> Testing в мобильной версии сайта
+  requirement: |
+    Отзывы содержат фотографии клиентов
+  prerequisites:
+    Открыт сайт surf.dev на мобильном устройстве
+  test-data: |
+    Empty 
+  steps:
+    - Нажать на 3 горизонтальные полоски в правом верхнем углу сайта
+    - Нажать на кнопку 'Services'
+    - Нажать на кнопку 'Support and management'
+    - Нажать на кнопку 'Testing'
+    - Скроллить вниз
+  expected-result: |
+    Отзывы содержат фотографии клиентов
