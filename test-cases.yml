@@ -113,3 +113,20 @@
     - Скроллить вниз
   expected-result: |
     Вёрстка сайта выровнена и не поехала
+
+- summary: |
+    Проверка вёрстки раздела Industries -> Concepts -> Healthcare Apps Dev в мобильной версии сайта
+  requirement: |
+    Вёрстка сайта выровнена и не поехала
+  prerequisites:
+    Открыт сайт surf.dev на мобильном устройстве
+  test-data: |
+    Empty 
+  steps:
+    - Нажать на 3 горизонтальные полоски в правом верхнем углу сайта
+    - Нажать на кнопку 'Industries'
+    - Нажать на кнопку 'Concepts'
+    - Нажать на кнопку 'Healthcare Apps Dev'
+    - Скроллить вниз
+  expected-result: |
+    Вёрстка сайта выровнена и не поехала
