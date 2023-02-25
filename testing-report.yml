@@ -38,3 +38,7 @@
 - summary: |
     Проверка вёрстки раздела Services -> Support and management -> Support SLA в мобильной версии сайта
   status: fail
+
+- summary: |
+    Проверка вёрстки раздела Services -> Support and management -> Testing в мобильной версии сайта
+  status: fail
