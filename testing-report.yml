@@ -26,3 +26,7 @@
 - summary: |
     Проверка перехода на страницу компании в GoodFirms
   status: fail
+
+- summary: |
+    Проверка вёрстки раздела Services -> Web development -> Back-end в мобильной версии сайта
+  status: fail
