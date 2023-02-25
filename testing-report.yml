@@ -42,3 +42,7 @@
 - summary: |
     Проверка вёрстки раздела Services -> Support and management -> Testing в мобильной версии сайта
   status: fail
+
+- summary: |
+    Проверка вёрстки раздела Services -> Design -> UI/UX Design в мобильной версии сайта
+  status: fail
