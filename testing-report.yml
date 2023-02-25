@@ -30,3 +30,7 @@
 - summary: |
     Проверка вёрстки раздела Services -> Web development -> Back-end в мобильной версии сайта
   status: fail
+
+- summary: |
+    Проверка вёрстки раздела Industries -> Concepts -> Healthcare Apps Dev в мобильной версии сайта
+  status: fail
