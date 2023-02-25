@@ -164,3 +164,20 @@
   actual-result: |
     Отсутствует фотография клиента, оставившего отзыв. Вместо фото другое изображение.
     Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
+
+- summary: |
+    Вёрстка сайта в разделе Services -> Design -> UI/UX Design в мобильной версии сайта поехала
+  environment: |
+    iPhone 8 Plus  iOS 16.1.1 Safari browser
+  steps-to-reproduce: |
+    1. Зайти на surf.dev на мобильном устройстве
+    2. Нажать на 3 горизонтальные полоски в правом верхнем углу сайта
+    3. Нажать на кнопку 'Services'
+    4. Нажать на кнопку 'Design'
+    5. Нажать на кнопку 'UI/UX Design'
+    6. Скроллить вниз
+  expected-result: |
+    Вёрстка сайта выровнена и не поехала
+  actual-result: |
+    Вёрстка сайта поехала.
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
