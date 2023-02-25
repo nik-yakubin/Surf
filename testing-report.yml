@@ -34,3 +34,7 @@
 - summary: |
     Проверка вёрстки раздела Industries -> Concepts -> Healthcare Apps Dev в мобильной версии сайта
   status: fail
+
+- summary: |
+    Проверка вёрстки раздела Services -> Support and management -> Support SLA в мобильной версии сайта
+  status: fail
