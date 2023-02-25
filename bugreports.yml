@@ -95,4 +95,21 @@
   expected-result: |
     Наличие изображения кнопки для перехода на страницу компании в GoodFirms 
   actual-result: |
-    Отсутствие изображения кнопки для перехода на страницу компании в GoodFirms    
+    Отсутствие изображения кнопки для перехода на страницу компании в GoodFirms 
+
+- summary: |
+    Вёрстка сайта в разделе Services -> Web development -> Back-end в мобильной версии сайта поехала
+  environment: |
+    iPhone 8 Plus  iOS 16.1.1 Safari browser
+  steps-to-reproduce: |
+    1. Зайти на surf.dev на мобильном устройстве
+    2. Нажать на 3 горизонтальные полоски в правом верхнем углу сайта
+    3. Нажать на кнопку 'Services'
+    4. Нажать на кнопку 'Web development'
+    5. Нажать на кнопку 'Back-end'
+    6. Скроллить вниз
+  expected-result: |
+    Вёрстка сайта выровнена и не поехала
+  actual-result: |
+    Вёрстка сайта поехала.
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
