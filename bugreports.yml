@@ -11,7 +11,7 @@
     Осуществился переход на английскую версию сайта
   actual-result: |
     Версия сайта осталась прежней.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
 
 - summary: |
     Не работает переход на страницу компании в LinkedIn
@@ -118,7 +118,7 @@
     Вёрстка сайта выровнена и не поехала
   actual-result: |
     Вёрстка сайта поехала.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
 
 - summary: |
     Вёрстка сайта в разделе Industries -> Concepts -> Healthcare Apps Dev в мобильной версии сайта поехала
@@ -135,7 +135,7 @@
     Вёрстка сайта выровнена и не поехала
   actual-result: |
     Вёрстка сайта поехала.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
 
 - summary: |
     Вёрстка сайта в разделе Services -> Support and management -> Support SLA в мобильной версии сайта поехала
@@ -152,7 +152,7 @@
     Вёрстка сайта выровнена и не поехала
   actual-result: |
     Вёрстка сайта поехала.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
 
 - summary: |
     В разделе Services -> Support and management -> Testing в мобильной версии сайта отсутствует фотография клиента
@@ -169,7 +169,7 @@
     Есть фотография клиента, который оставил отзыв
   actual-result: |
     Отсутствует фотография клиента, оставившего отзыв. Вместо фото другое изображение.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
 
 - summary: |
     Вёрстка сайта в разделе Services -> Design -> UI/UX Design в мобильной версии сайта поехала
@@ -186,4 +186,4 @@
     Вёрстка сайта выровнена и не поехала
   actual-result: |
     Вёрстка сайта поехала.
-    Скринкаст находится в папке Surf/media
+    Скринкаст доступен по ссылке https://github.com/nik-yakubin/Surf/tree/main/media
